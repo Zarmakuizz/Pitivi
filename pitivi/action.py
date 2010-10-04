@@ -2,7 +2,7 @@
 #
 #       pitivi/action.py
 #
-# Copyright (c) 2009, Edward Hervey <bilboed@bilboed.com> 
+# Copyright (c) 2009, Edward Hervey <bilboed@bilboed.com>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU Lesser General Public
